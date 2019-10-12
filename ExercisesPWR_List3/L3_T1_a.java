@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class L3_T1 {
+public class L3_T1_a {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		System.out.println("Podaj przedział k liczb całkowitych oraz liczebność zbioru elementu n");
@@ -37,4 +37,4 @@ public class L3_T1 {
 		System.out.println();
 		s.close();
 	} //main
-} //L3_T1
+} //L3_T1_a
